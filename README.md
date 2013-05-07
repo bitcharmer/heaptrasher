@@ -32,3 +32,5 @@ The individual test runs are described below:
 *** IMPORTANT NOTE ***
 ParallelGCThreads should be set to at most the number of CPUs available in your system - 1 (so 7 for an 8-core environment).
 
+*** IMPORTANT NOTE ***
+Please bear in mind this test code does not cover the warm-up phase so you'll need to give your VM a few moments before you start measuring anything.
