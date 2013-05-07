@@ -1,5 +1,6 @@
 This simple tool allows for observing the impact of GC configuration changes on GC latency for single-threaded scenarios.
-It is a part of presentation which took place on 23rd April 2013 at Warsaw JUG. You can find some slides in ./doc subdirectory.
+It is a part of presentation which took place on 23rd April 2013 at Warsaw JUG. The whole lecture is available on WJUG's Youtube channel: http://www.youtube.com/watch?v=0DAZcaOZEag.
+You can also find some slides in ./doc subdirectory.
 The point of this code is solely to demonstrate how tweaking some GC parameters yields better latency for young collections.
 
 Best way to observe the influence is either:
